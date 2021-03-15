@@ -2,3 +2,11 @@ Primeira aula
 
 Comando para verificar o status
 Alterando novamente
+
+Usando o git diff para ver antes de comitar.
+
+Mudandno novamente.
+
+asdf
+
+Subindo alteração para o github.
