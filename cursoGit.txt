@@ -1,0 +1,3 @@
+Primeira aula
+
+Comando para verificar o status
